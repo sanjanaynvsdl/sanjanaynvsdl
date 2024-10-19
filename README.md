@@ -1,4 +1,3 @@
-<h1 align="left">Hii, I'm Sanjana</h1>
 
 ###
 
