@@ -2,7 +2,7 @@
 
 
 # About Me:
-👋 Hi, I'm Sanjana!<br>🌱 Currently learning Data Structures and Algorithms (DSA).<br>💻 Building cool projects and mastering full-stack development.<br>🔭 Passionate about exploring new technologies.<br>
+👋 Hi, I'm Sanjana,<br>🌱 Currently learning Data Structures and Algorithms (DSA).<br>💻 Building cool projects and mastering full-stack development.<br>🔭 Passionate about exploring new technologies.<br>
 
 
 ## Socials:
@@ -14,9 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=sanjanaynvsdl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sanjanaynvsdl&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanaynvsdl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanjanaynvsdl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
