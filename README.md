@@ -2,7 +2,7 @@
 
 
 # About Me:
-👋 Hi, I'm Sanjana,<br>🌱 Currently learning Data Structures and Algorithms (DSA).<br>💻 Building cool projects and mastering full-stack development.<br>🔭 Passionate about exploring new technologies.<br>
+👋 Hi, I'm Sanjana,<br>🌱 Currently learning Data Structures and Algorithms (DSA).<br>💻 Building cool projects and mastering full-stack development.<br>
 
 
 ## Socials:
