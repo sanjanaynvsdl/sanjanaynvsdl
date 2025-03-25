@@ -2,7 +2,7 @@
 # About Me:
  🎓 CS student passionate about solving real-world problems.<br/>
 💻 Building useful applications & mastering full-stack development.<br/>
-🌐 Exploring Web3 & new technologies.<br/>
+🌐 Exploring new technologies and learning UI/UX design.<br/>
 🤝 Open to collaborations on exciting ideas!<br/>
 
 # 💻 Tech Stack:
